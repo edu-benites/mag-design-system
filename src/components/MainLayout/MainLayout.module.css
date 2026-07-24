@@ -1,0 +1,14 @@
+.pageContainer {
+  min-height: 100vh;
+  background-color: var(--color-background, #f4f6f8);
+  display: flex;
+  flex-direction: column;
+}
+
+.mainContent {
+  max-width: 1400px;
+  width: 100%;
+  margin: 32px auto;
+  padding: 0 24px;
+  flex: 1;
+}

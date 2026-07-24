@@ -1,0 +1,12 @@
+{
+  "name": "mag-design-system",
+  "version": "1.0.0",
+  "description": "Biblioteca de componentes visuais e design system compartilhado para as aplicações MAG",
+  "main": "src/index.js",
+  "private": true,
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.30.4"
+  }
+}
