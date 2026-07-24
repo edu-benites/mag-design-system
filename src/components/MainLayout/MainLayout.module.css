@@ -1,6 +1,6 @@
 .pageContainer {
   min-height: 100vh;
-  background-color: var(--color-background, #f4f6f8);
+  background-color: #f4f6f8; /* Fundo cinza claro padrão da aplicação */
   display: flex;
   flex-direction: column;
 }
